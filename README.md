@@ -4,9 +4,13 @@ Simón Tovar
 Wednesday classes SI2002-2 (7309)
 
 Then: Windows
+
 Programming language: Python
+
 Tools used:
+
 Instructions for execution:
+
 1) Open your code editor (preferably VSCode)
 2) Go to the options to run Python file
 3) The console will open, where you can see the required inputs.
