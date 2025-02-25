@@ -3,7 +3,7 @@ Simón Tovar
 
 Wednesday classes SI2002-2 (7309)
 
-Then: Windows
+OS: Windows
 
 Programming language: Python
 
