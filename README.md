@@ -16,7 +16,6 @@ The format of the transitions is as follows:
   state symbol1 destination1 symbol2 destination2
   
 It will depend on whether the automaton is with two equivalent states,
-
 with inaccessible states or more equivalent states.
 
     Example: Simple automaton with two equivalent states:
@@ -26,7 +25,9 @@ with inaccessible states or more equivalent states.
     Example: Automaton with inaccessible states
     
     State and its transitions: 0 a 1 b 3
+    
     Example: Automaton with more equivalent states
+    
     State and its transitions: 0 0 1 1 2
 
 
