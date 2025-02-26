@@ -7,8 +7,6 @@ OS: Windows
 
 Programming language: Python
 
-Tools used:
-
 Instructions for execution:
 
 1) Open your code editor (preferably VSCode)
@@ -37,5 +35,16 @@ with inaccessible states or more equivalent states.
 Explanation of the algorithm:
 
 This program reads and minimizes a deterministic finite automaton (DFA). First, it asks the user for the states, alphabet, transitions, and final states of the automaton. Then, it identifies which states are reachable from the initial state and applies the minimization algorithm to find equivalent states, i.e., those that can be combined without changing the behavior of the automaton. Finally, it returns the equivalent state pairs for each test case entered.
+
+Bibliography:
+
+https://es.stackoverflow.com/questions/76447/aut%C3%B3mata-finito-determinista-en-python
+
+https://ellibrodepython.com/diccionarios-en-python
+
+https://www.studocu.com/co/document/universidad-pedagogica-y-tecnologica-de-colombia/psicopedagogia/taller-diseno-af-python-java/31462029
+
+https://pythondiario.com/2015/06/afd-en-python-automata-finito.html
+
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/95BWY5mA)
