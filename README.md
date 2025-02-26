@@ -34,5 +34,8 @@ with inaccessible states or more equivalent states.
     
     State and its transitions: 0 0 1 1 2
 
+Explanation of the algorithm:
+
+This program reads and minimizes a deterministic finite automaton (DFA). First, it asks the user for the states, alphabet, transitions, and final states of the automaton. Then, it identifies which states are reachable from the initial state and applies the minimization algorithm to find equivalent states, i.e., those that can be combined without changing the behavior of the automaton. Finally, it returns the equivalent state pairs for each test case entered.
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/95BWY5mA)
