@@ -133,4 +133,4 @@ def principal():
         print("---")
 
 if __name__ == "__main__":
-    principal()  # Ejecuta la función principal si el script se ejecuta directamente.
+    principal()  # Ejecuta la función principal si el script se ejecuta directamente. 
